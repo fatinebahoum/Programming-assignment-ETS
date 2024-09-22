@@ -32,3 +32,10 @@ gh auth login --with-token < mytoken.txt
 ```bash
 ./fetch_rails_issues.sh
 ```
+
+## Data Path
+
+The data used for this project is stored in the following Google Drive folder:
+
+[Google Drive Data Folder](https://drive.google.com/drive/folders/1BMKcaCmbnKC2Uvl4gilnBqbrLoxT4He8?usp=sharing)
+
