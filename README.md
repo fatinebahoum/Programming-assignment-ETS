@@ -39,3 +39,11 @@ The data used for this project is stored in the following Google Drive folder:
 
 [Google Drive Data Folder](https://drive.google.com/drive/folders/1BMKcaCmbnKC2Uvl4gilnBqbrLoxT4He8?usp=sharing)
 
+
+## HuggingFace Notebook
+
+The HuggingFace notebook used in this project can be found at the following link:
+
+[HuggingFace Notebook on Kaggle](https://www.kaggle.com/code/marouaneemalhi/phd-programming-assignment)
+
+
